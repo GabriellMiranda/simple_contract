@@ -1,0 +1,5 @@
+# Ignorar arquivo .env com variáveis de ambiente
+.env
+
+# Ignorar a pasta node_modules (dependências do projeto)
+node_modules/
